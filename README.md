@@ -4,6 +4,10 @@ A portable, static property website for Coconut Plantation 1200-4. Uses actual p
 
 ## See the draft
 
+Live design preview: https://tommytbaxter.github.io/coconut-ko-olina/
+
+Source repository: https://github.com/tommytbaxter/coconut-ko-olina
+
 Open `index.html` in a browser, or from this folder run `python3 -m http.server 8765 --bind 127.0.0.1` and visit `http://127.0.0.1:8765/`.
 
 ## Put this on GitHub Pages
@@ -49,4 +53,6 @@ The supplied reference photos are current web copies, not necessarily original c
 
 ## Deployment status
 
-Initial local draft. No GitHub repository or external deployment has been created yet. GitHub sign-in is required to continue setup.
+Published design preview on GitHub Pages from the main branch and repository root. The source and optimized photographs are committed to tommytbaxter/coconut-ko-olina. The existing coconutkoolina.com website and domain settings remain separate.
+
+For future revisions, edit the source files and commit to main. GitHub Pages rebuilds the preview automatically. Keep the draft banner and noindex settings until final launch is approved.
